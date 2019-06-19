@@ -1,0 +1,7 @@
+Nom de la base de donnée : crud2
+Nom de la table : users
+Nom des colonnes :id int autoincrement size 11
+		name varchar 255
+		age int
+		mail varchar 255
+		url varchar 255 null
